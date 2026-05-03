@@ -1,1 +1,1 @@
-# Shell-Scripting
+# Shell-Scripting project contains mini scripts that helps in day to day
