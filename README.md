@@ -1,1 +1,1 @@
-# Shell-Scripting projects contains script
+# Shell-Scripting projects contains script that helps devops/cloud engineer in day to day operations
